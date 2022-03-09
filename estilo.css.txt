@@ -1,0 +1,15 @@
+.quente{
+    color: green;
+}
+
+.fria{
+    color: green;
+}
+
+.primaria{
+    color: gray;
+}
+
+.secundaria{
+    color: gray;
+}
